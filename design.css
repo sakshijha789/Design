@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&family=Poppins:wght@100;300;400;500;600&family=Roboto+Mono:wght@300&family=Roboto:wght@100;400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    width: 25%;
+    min-width: 250px;
+    padding:10px 12px ;
+    border: 1px solid #cce7d0;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    margin: 70px 500px;
+    transition: 0.2s ease;
+    position: relative;
+}
+
+.fa-arrow-left{
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 40px;
+}
+.fa-bookmark{
+margin-left: 20rem;
+margin-bottom: 40px;
+margin-top: 0.5rem;
+}
+
+p{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+}
+.img img{
+    width: 40vh;
+    height: 40vh;
+    border-radius: 20px;
+}
+.r{
+    color: gray;
+}
+
+h3{
+    margin-top: 10px;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+
+h4{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    padding: 4px 4px;
+    background-color: rgb(76, 146, 76);
+    color: white;
+    border-radius: 7px;
+}
+.m{
+    display: inline-block;
+    border-radius: 0.5px;
+}
+.as{
+    margin-right: 10px;
+}
+.down,.two
+    {
+    display: inline-block;
+    padding: 2vh 7vh;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(120, 87, 120);
+    border-color: #ccc;
+    }
+    .ones{
+        margin-left: 180px;
+    }
+    .twos{
+        margin-left: 135px;
+    }
+    .threes{
+        margin-left: 230px;
+    }
+    .details{
+        padding: 5px 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .two{
+        background-color: rgb(185, 156, 185);;
+    }
